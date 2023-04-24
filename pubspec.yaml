@@ -82,6 +82,9 @@ flutter:
       - asset\images\fnl1.jpg
       - asset\images\fnl2.jpg
       - asset\images\fnlbottom.jpg
+      - asset\images\1.png
+      - asset\images\new.jpg
+      - asset\images\new1.png
       
 
   # An image asset can refer to one or more resolution-specific "variants", see
